@@ -1,0 +1,2 @@
+# Full-Stack-Data-Science
+This repository will contain my Full Stack Data Science various projects, codes &amp; files etc. of Python, Statistics, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data analytics, MI ops, Cloud, Industrial &amp; Real time Projects etc. I will try to upload in very familiar which I have learned, &amp; always appreciate for feedback to change the code. 
